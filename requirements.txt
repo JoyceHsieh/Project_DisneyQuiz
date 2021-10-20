@@ -1,6 +1,4 @@
 flask
-os
-config
 numpy
 matplotlib
 cv2
@@ -9,8 +7,5 @@ sklearn.cluster
 utils
 matplotlib.pyplot
 PIL
-random
-math
-sys
 sklearn
 werkzeug
