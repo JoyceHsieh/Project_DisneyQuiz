@@ -4,5 +4,3 @@ matplotlib
 opencv-contrib-python
 seaborn
 sklearn
-PIL
-werkzeug
