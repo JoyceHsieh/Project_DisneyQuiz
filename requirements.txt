@@ -2,7 +2,6 @@ flask
 numpy
 matplotlib
 opencv-contrib-python
-cv2
 seaborn
 sklearn
 sklearn.cluster
