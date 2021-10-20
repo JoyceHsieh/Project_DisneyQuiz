@@ -1,11 +1,12 @@
 flask
 numpy
 matplotlib
+opencv-contrib-python
 cv2
 seaborn
+sklearn
 sklearn.cluster
 utils
 matplotlib.pyplot
 PIL
-sklearn
 werkzeug
