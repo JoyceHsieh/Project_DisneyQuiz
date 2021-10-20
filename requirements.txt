@@ -4,8 +4,5 @@ matplotlib
 opencv-contrib-python
 seaborn
 sklearn
-sklearn.cluster
-utils
-matplotlib.pyplot
 PIL
 werkzeug
